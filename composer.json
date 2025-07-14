@@ -1,0 +1,19 @@
+{
+	"name": "multidots/salsisync",
+	"require-dev": {
+		"composer/composer": "^2.0",
+		"dealerdirect/phpcodesniffer-composer-installer": "^0.4.1 || ^0.5 || ^0.6.2 || ^0.7",
+		"wp-coding-standards/wpcs": "3.1.0"
+	},
+	"config": {
+		"allow-plugins": {
+			"dealerdirect/phpcodesniffer-composer-installer": true
+		}
+	},
+	"scripts": {
+		"set_default": "phpcs --config-set default_standard WordPress",
+		"phpcs_i": "phpcs -i",
+		"phpcs": "phpcs --standard=./phpcs.xml *",
+		"phpcbf": "phpcbf --standard=./phpcbf.xml *"
+	}
+}
