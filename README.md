@@ -23,19 +23,21 @@ Display custom product templates on the frontend, tailored specifically for WooC
 
 With Salsi Sync, managing and synchronizing your WooCommerce product data becomes streamlined, efficient, and tailored to meet your store’s unique needs.
 
-### Requirements
+## Configuration
+### Salsify API Settings
+**Salsify Domain:** Your Salsify subdomain (e.g., yourbrand.salsify.com)
+**Access Token:** Generated from your Salsify account
+**Field Mapping**
+Map Salsify product attributes to corresponding WooCommerce fields such as:
+* Product Title
+* Description
+* SKU
+* Price
+* Images
+* Custom Attributes
+**Manual Sync**
+From the SalsiSync settings page, you can trigger a manual sync to test or immediately update your WooCommerce catalog.
 
-`Salsi Sync Pluign` requires the following dependencies:
-
--   [Node.js](https://nodejs.org/)
--   [NVM](https://wptraining.md10x.com/lessons/install-nvm/)
-
-## Installation
-
-1. Upload the `salsisync` directory to the `/wp-content/plugins/` directory.
-2. Activate the plugin through the 'Plugins' screen in WordPress.
-3. Go to the **Salsi Sync** settings panel to configure API credentials and other plugin settings.
-4. Use the **Bulk Insert** option to add all products from Salsify to WooCommerce or sync updates as needed.
 
 ### Frequently Asked Questions
 
@@ -67,14 +69,15 @@ Privacy Policy: https://www.salsify.com/privacy-policy
 1.0.0
 Initial release.
 
-## Credits
+### Credits
 Salsi Sync is developed by Multidots. We appreciate the contributions from the open-source community.
 
 ### Support
-For support, please visit [WP.org](https://wordpress.org/)
+For support or questions, please open an issue(https://github.com/multidots/salsisync/issues) or contact us via our website at multidots.com(http://multidots.com/).
+
 
 ### License
 This plugin is licensed under the GPLv2 or later license.
 
-## See potential here?
+### See potential here?
 <a href="https://www.multidots.com/contact-us/" rel="nofollow"><img width="1692" height="296" alt="01-GitHub Footer" src="https://github.com/user-attachments/assets/6b9d63e7-3990-472d-acb9-5e4e51b446fc" /></a>
