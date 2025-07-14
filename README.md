@@ -25,7 +25,7 @@ With Salsi Sync, managing and synchronizing your WooCommerce product data become
 
 ### Requirements
 
-`WP SALSIFY BRIDGE` requires the following dependencies:
+`Salsi Sync Pluign` requires the following dependencies:
 
 -   [Node.js](https://nodejs.org/)
 -   [NVM](https://wptraining.md10x.com/lessons/install-nvm/)
@@ -68,7 +68,7 @@ Privacy Policy: https://www.salsify.com/privacy-policy
 Initial release.
 
 ## Credits
-WP SALSIFY BRIDGE is developed by Multidots. We appreciate the contributions from the open-source community.
+Salsi Sync is developed by Multidots. We appreciate the contributions from the open-source community.
 
 ### Support
 For support, please visit [your support forum link or website].
