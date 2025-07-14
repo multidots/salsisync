@@ -43,7 +43,7 @@ Map Salsify product attributes to corresponding WooCommerce fields such as:
 From the SalsiSync settings page, you can trigger a manual sync to test or immediately update your WooCommerce catalog.
 
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 **How do I configure the Salsify API?**
 In the plugin settings, you can enter your Salsify API credentials, including API token and organization key, to connect with Salsify.
@@ -54,36 +54,26 @@ Custom data mapping allows you to map specific fields from the Salsify API data 
 **Will this plugin overwrite existing WooCommerce products?**
 No, the plugin is designed to skip existing products if they are already synced unless you choose to update them. Only new or updated products from Salsify will be inserted.
 
-
-### External services
-This plugin connects to the Salsify API to sync product data. 
-It sends product information and API keys when syncing data.
-
-Service: Salsify API
-Terms of Service: https://www.salsify.com/legal/terms-of-service
-Privacy Policy: https://www.salsify.com/privacy-policy
-
-
-### Changelog
+## Changelog
 
 1.0.0
 * Initial release of Salsi Sync.
 * Added product sync, image sync, custom data mapping, update checking, and custom templates.
 
-### Upgrade Notice
+## Upgrade Notice
 
 1.0.0
 Initial release.
 
-### Credits
+## Credits
 Salsi Sync is developed by Multidots. We appreciate the contributions from the open-source community.
 
-### Support
+## Support
 For support or questions, please [open an issue](https://github.com/multidots/salsisync/issues) or contact us via our website at [multidots.com](http://multidots.com/).
 
 
-### License
+## License
 This plugin is licensed under the GPLv2 or later license.
 
-### See potential here?
+## See potential here?
 <a href="https://www.multidots.com/contact-us/" rel="nofollow"><img width="1692" height="296" alt="01-GitHub Footer" src="https://github.com/user-attachments/assets/6b9d63e7-3990-472d-acb9-5e4e51b446fc" /></a>
