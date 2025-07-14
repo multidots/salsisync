@@ -71,7 +71,7 @@ Initial release.
 Salsi Sync is developed by Multidots. We appreciate the contributions from the open-source community.
 
 ### Support
-For support, please visit [your support forum link or website].
+For support, please visit [WP.org](https://wordpress.org/)
 
 ### License
 This plugin is licensed under the GPLv2 or later license.
