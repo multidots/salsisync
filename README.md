@@ -1,4 +1,4 @@
-# WP SALSIFY BRIDGE Plugin
+# Salsi Sync Plugin
 ![banner-772x250](https://github.com/user-attachments/assets/5302a5a6-43e0-4086-9df3-fd2cbd12c864)
 
 WordPress Plugin for [Multidots](https://www.multidots.com/)
@@ -6,21 +6,19 @@ Salsi Sync is a powerful plugin that enables WooCommerce site owners to synchron
 
 ## Features
 
-1. **Product Sync from Salsify to WooCommerce**
+1. **Product Sync from Salsify to WooCommerce:**
    Fetch product data directly from the Salsify API and insert it into WooCommerce as WooCommerce-compatible products.
-Product Sync from Salsify to WooCommerce
-Fetch product data directly from the Salsify API and insert it into WooCommerce as WooCommerce-compatible products.
-
-2. **Image Synchronization**
+   
+2. **Image Synchronization:**
 Syncs both featured images and gallery images for products, ensuring your WooCommerce store displays complete and visually consistent product data.
 
-3. **Custom Data Mapping**
+3. **Custom Data Mapping:**
 Customize product data mapping to display unique fields from Salsify API data, ensuring WooCommerce products are enriched with additional, tailored information.
 
-4. **On-Demand Update Checks**
+4. **On-Demand Update Checks:**
 Manually check for product updates from the Salsify API, allowing you to keep WooCommerce products current with the latest data from Salsify.
 
-5. **Custom WooCommerce Product Templates**
+5. **Custom WooCommerce Product Templates:**
 Display custom product templates on the frontend, tailored specifically for WooCommerce products synced from Salsify.
 
 With Salsi Sync, managing and synchronizing your WooCommerce product data becomes streamlined, efficient, and tailored to meet your store’s unique needs.
