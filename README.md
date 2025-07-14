@@ -1,7 +1,8 @@
 # Salsi Sync Plugin
 ![banner-772x250](https://github.com/user-attachments/assets/5302a5a6-43e0-4086-9df3-fd2cbd12c864)
 
-WordPress Plugin for [Multidots](https://www.multidots.com/)
+WordPress Plugin for [Multidots](https://www.multidots.com/).
+
 Salsi Sync is a powerful plugin that enables WooCommerce site owners to synchronize their products from the Salsify API to WooCommerce effortlessly. This plugin simplifies product updates, image synchronization, custom data mappings, and more, providing a complete integration solution between Salsify and WooCommerce.
 
 ## Features
@@ -25,9 +26,12 @@ With Salsi Sync, managing and synchronizing your WooCommerce product data become
 
 ## Configuration
 ### Salsify API Settings
-**Salsify Domain:** Your Salsify subdomain (e.g., yourbrand.salsify.com)
-**Access Token:** Generated from your Salsify account
+**Salsify Domain:** Your Salsify subdomain (e.g., yourbrand.salsify.com).
+
+**Access Token:** Generated from your Salsify account.
+
 **Field Mapping**
+
 Map Salsify product attributes to corresponding WooCommerce fields such as:
 * Product Title
 * Description
@@ -35,7 +39,9 @@ Map Salsify product attributes to corresponding WooCommerce fields such as:
 * Price
 * Images
 * Custom Attributes
+
 **Manual Sync**
+
 From the SalsiSync settings page, you can trigger a manual sync to test or immediately update your WooCommerce catalog.
 
 
@@ -52,7 +58,9 @@ No, the plugin is designed to skip existing products if they are already synced 
 
 
 ### External services
-This plugin connects to the Salsify API to sync product data. It sends product information and API keys when syncing data.
+This plugin connects to the Salsify API to sync product data. 
+It sends product information and API keys when syncing data.
+
 Service: Salsify API
 Terms of Service: https://www.salsify.com/legal/terms-of-service
 Privacy Policy: https://www.salsify.com/privacy-policy
@@ -73,7 +81,7 @@ Initial release.
 Salsi Sync is developed by Multidots. We appreciate the contributions from the open-source community.
 
 ### Support
-For support or questions, please open an issue(https://github.com/multidots/salsisync/issues) or contact us via our website at multidots.com(http://multidots.com/).
+For support or questions, please [open an issue](https://github.com/multidots/salsisync/issues) or contact us via our website at [multidots.com](http://multidots.com/).
 
 
 ### License
