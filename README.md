@@ -43,15 +43,9 @@ Map Salsify product attributes to corresponding WooCommerce fields such as:
 From the SalsiSync settings page, you can trigger a manual sync to test or immediately update your WooCommerce catalog.
 
 ## Changelog
-
 1.0.0
 * Initial release of Salsi Sync.
 * Added product sync, image sync, custom data mapping, update checking, and custom templates.
-
-## Upgrade Notice
-
-1.0.0
-Initial release.
 
 ## Credits
 Salsi Sync is developed by Multidots. We appreciate the contributions from the open-source community.
