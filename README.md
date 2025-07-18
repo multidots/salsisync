@@ -5,19 +5,19 @@ Salsi Sync is a powerful plugin that enables WooCommerce site owners to synchron
 
 ## Features
 
-1. **Product Sync from Salsify to WooCommerce:**
+* **Product Sync from Salsify to WooCommerce:**
    Fetch product data directly from the Salsify API and insert it into WooCommerce as WooCommerce-compatible products.
    
-2. **Image Synchronization:**
+* **Image Synchronization:**
 Syncs both featured images and gallery images for products, ensuring your WooCommerce store displays complete and visually consistent product data.
 
-3. **Custom Data Mapping:**
+* **Custom Data Mapping:**
 Customize product data mapping to display unique fields from Salsify API data, ensuring WooCommerce products are enriched with additional, tailored information.
 
-4. **On-Demand Update Checks:**
+* **On-Demand Update Checks:**
 Manually check for product updates from the Salsify API, allowing you to keep WooCommerce products current with the latest data from Salsify.
 
-5. **Custom WooCommerce Product Templates:**
+* **Custom WooCommerce Product Templates:**
 Display custom product templates on the frontend, tailored specifically for WooCommerce products synced from Salsify.
 
 With Salsi Sync, managing and synchronizing your WooCommerce product data becomes streamlined, efficient, and tailored to meet your store’s unique needs.
@@ -42,18 +42,6 @@ Map Salsify product attributes to corresponding WooCommerce fields such as:
 
 From the SalsiSync settings page, you can trigger a manual sync to test or immediately update your WooCommerce catalog.
 
-
-## Frequently Asked Questions
-
-**How do I configure the Salsify API?**
-In the plugin settings, you can enter your Salsify API credentials, including API token and organization key, to connect with Salsify.
-
-**How does the custom data mapping work?**
-Custom data mapping allows you to map specific fields from the Salsify API data to custom WooCommerce fields, so additional information from Salsify is displayed on your WooCommerce products.
-
-**Will this plugin overwrite existing WooCommerce products?**
-No, the plugin is designed to skip existing products if they are already synced unless you choose to update them. Only new or updated products from Salsify will be inserted.
-
 ## Changelog
 
 1.0.0
@@ -75,5 +63,5 @@ For support or questions, please [open an issue](https://github.com/multidots/sa
 ## License
 This plugin is licensed under the GPLv2 or later license.
 
-## See potential here?
+## Get In Touch
 <a href="https://www.multidots.com/contact-us/" rel="nofollow"><img width="1692" height="296" alt="01-GitHub Footer" src="https://github.com/user-attachments/assets/6b9d63e7-3990-472d-acb9-5e4e51b446fc" /></a>
