@@ -1,4 +1,4 @@
-# Salsi Sync Plugin
+# Salsi Sync
 ![banner-772x250](https://github.com/user-attachments/assets/5302a5a6-43e0-4086-9df3-fd2cbd12c864)
 
 Salsi Sync is a powerful plugin that enables WooCommerce site owners to synchronize their products from the Salsify API to WooCommerce effortlessly. This plugin simplifies product updates, image synchronization, custom data mappings, and more, providing a complete integration solution between Salsify and WooCommerce.
